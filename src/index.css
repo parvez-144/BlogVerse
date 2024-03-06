@@ -1,0 +1,13 @@
+
+/* Import the base styles for Tailwind CSS */
+@import 'tailwindcss/base';
+
+/* Import the components styles for Tailwind CSS */
+@import 'tailwindcss/components';
+
+/* Import the utilities styles for Tailwind CSS */
+@import 'tailwindcss/utilities';
+.bg-deepBlue {
+    --tw-bg-opacity: 1;
+    background-color: rgb(2 4 42 / var(--tw-bg-opacity));
+}
